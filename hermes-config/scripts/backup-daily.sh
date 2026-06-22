@@ -1,3 +1,2 @@
 #!/bin/bash
-# Daily — git commit vault
-/opt/data/backup.sh daily
+$HOME/projects/harness-agent-memory/hermes-config/scripts/backup.sh daily

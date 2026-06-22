@@ -1,3 +1,2 @@
 #!/bin/bash
-# Weekly — tar full snapshot
-/opt/data/backup.sh weekly
+$HOME/projects/harness-agent-memory/hermes-config/scripts/backup.sh weekly
